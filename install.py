@@ -92,7 +92,7 @@ def update(rType="MAIN"):
         printc("Enter the link of release_xyz.zip file:", col.WARNING)
         rlink = raw_input('Example: https://bitbucket.org/emre1393/xtreamui_mirror/downloads/release_22f.zip\n\nNow enter the link:\n\n')
     else:
-        rlink = "https://bitbucket.org/emre1393/xtreamui_mirror/downloads/release_22f.zip"
+        rlink = "https://bitbucket.org/JZafarr/xtreme-ui/downloads/xc_22f_update_17_10_20.zip"
         printc("Installing Admin Panel")
     hdr = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36',
        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
